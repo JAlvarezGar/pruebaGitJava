@@ -78,7 +78,7 @@
     </Component>
     <Component class="javax.swing.JLabel" name="jLFarenheit">
       <Properties>
-        <Property name="text" type="java.lang.String" value="Farenheit"/>
+        <Property name="text" type="java.lang.String" value="FarenheiT"/>
       </Properties>
     </Component>
     <Component class="javax.swing.JLabel" name="jLabel1">

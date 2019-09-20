@@ -29,7 +29,7 @@ public class MiPrimerFrame extends javax.swing.JFrame {
 
         jLCelsius.setText("Celsius");
 
-        jLFarenheit.setText("Farenheit");
+        jLFarenheit.setText("FarenheiT");
 
         jLabel1.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
         jLabel1.setForeground(new java.awt.Color(0, 0, 102));
