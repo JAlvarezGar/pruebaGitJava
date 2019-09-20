@@ -35,7 +35,7 @@ public class MiPrimerFrame extends javax.swing.JFrame {
         jLabel1.setForeground(new java.awt.Color(0, 0, 102));
         jLabel1.setText("CONVERSOR DE TEMPERATURAS");
 
-        jBConvertir.setText("Convertir");
+        jBConvertir.setText("ConvertiR");
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
         getContentPane().setLayout(layout);
@@ -54,7 +54,7 @@ public class MiPrimerFrame extends javax.swing.JFrame {
                             .addComponent(jLCelsius)
                             .addComponent(jLFarenheit)
                             .addComponent(jBConvertir))))
-                .addContainerGap(51, Short.MAX_VALUE))
+                .addContainerGap(47, Short.MAX_VALUE))
         );
         layout.setVerticalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)

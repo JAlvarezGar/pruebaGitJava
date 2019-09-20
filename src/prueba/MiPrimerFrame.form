@@ -40,7 +40,7 @@
                       </Group>
                   </Group>
               </Group>
-              <EmptySpace pref="51" max="32767" attributes="0"/>
+              <EmptySpace pref="47" max="32767" attributes="0"/>
           </Group>
       </Group>
     </DimensionLayout>
@@ -94,7 +94,7 @@
     </Component>
     <Component class="javax.swing.JButton" name="jBConvertir">
       <Properties>
-        <Property name="text" type="java.lang.String" value="Convertir"/>
+        <Property name="text" type="java.lang.String" value="ConvertiR"/>
       </Properties>
     </Component>
   </SubComponents>
